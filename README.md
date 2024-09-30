@@ -1,4 +1,4 @@
-# EventTrackingApplication
+# EventTrackingApplication ( Android Application )
 
 ## Overview
 EventTrackingApplication is a powerful, easy-to-use tool that allows users to manage and track their events efficiently. The app allows users to create, edit, and manage events, as well as receive notifications via SMS to ensure they never miss an important date.
